@@ -1,0 +1,1 @@
+Sistema de Loja Virtual muito simples, feito em ASP.net e C# para a conclusão do curso do Microsoft 2 Business.
